@@ -2,10 +2,10 @@
 font-size: 16px;}
 
 body{
-    background-color: rgb(red, green, blue);
+    background-color: red;
 }
 
-main{background-color: white;
+main {background-color: white;
 width: 500px;
 margin: auto;
 }
